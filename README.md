@@ -6,7 +6,7 @@ Final project for OOP class.
 * To download both files to the same directory
 
 
-Then double-click the ass7game file.
+Then double-click the *ass7game file*.
 
 
 ### Game Controls
