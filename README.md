@@ -1,5 +1,4 @@
 # Arkanoid Game
-### **Ubuntu**
 
 Final project for OOP class.
 ##### In order to run this game please make sure:
